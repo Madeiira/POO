@@ -30,3 +30,9 @@
 
 ## 4. Para cada classe que herda e Forma, sobrescreva os comportamentos da superclasse. Para a sobrescrita do método getNome(), retorne o nome da forma. Já para os métodos calcularArea() e calcularPerimetro() implemente de acordo com a tabela definida abaixo:
 ### Resposta: [CODEPASTE](/src/main)
+
+## 5. Agora vamos pensar em um jogo de Xadrez. No jogo de xadrez nós temos peças. Mas cada peça faz movimentos específicos. Como você criaria uma classe para representar a peça de xadrez de forma geral? Quais comportamentos teria uma peça de xadrez, independente de qual peça for?
+### Resposta:
+
+## 6. Agora considerando a peça cavalo e bispo que herdam os comportamentos da superclasse Peca. Qual seria a implementação específica dos comportamentos de cada uma dessas peças?
+### Resposta:
